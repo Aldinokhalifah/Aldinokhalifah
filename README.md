@@ -10,10 +10,12 @@
 
 ### 🚀 About Me
 
-I'm a results-oriented Full Stack Developer with a focus on building secure, scalable, and maintainable web applications end-to-end—from database architecture and REST API design to frontend implementation and AI integration.<br><br>  
-My experience spans developing full-stack platforms, integrating LLM APIs, and building custom AI Agents with Python FastAPI. I thrive on breaking down complex requirements into clean, production-ready code.  
-My core strengths include RESTful API design, JWT authentication, PostgreSQL modeling, and integrating third-party services or AI APIs. I'm also comfortable on the frontend building responsive UIs with Next.js, React, and Tailwind CSS.<br><br>
-I enjoy owning technically challenging problems end-to-end and delivering solutions that create real impact. Always open to opportunities where strong engineering meets meaningful product work.
+I’m a Software Engineering and Backend & Full-Stack Developer interested in building reliable, scalable, and practical software systems.<br><br>  
+My main focus is backend development with Java, Spring Boot, REST APIs, and PostgreSQL. I also have experience with Node.js, Python, React, and Next.js for building full-stack applications.  
+Recently, I’ve been exploring AI integration, including LLM-based applications, AI Agents, MCP, and tool calling. I’m particularly interested in how AI can be integrated into existing software systems rather than treated as a standalone feature.<br><br>
+I enjoy working on projects involving authentication, role-based access control, database design, concurrency, rate limiting, API development, and system integration.
+
+Currently, I’m focused on strengthening my skills in backend engineering, software architecture, and AI-powered applications while building projects that solve real-world problems.
 
 🌱 &nbsp;I'm currently learning **System Design and AI Integration**
 
