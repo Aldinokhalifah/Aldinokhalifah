@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 I’m a Software Engineering and Backend & Full-Stack Developer interested in building reliable, scalable, and practical software systems.<br><br>  
-My main focus is backend development with Java, Spring Boot, REST APIs, and PostgreSQL. I also have experience with Node.js, Python, React, and Next.js for building full-stack applications.  
+My main focus is backend development with Java, Spring Boot, REST APIs, and PostgreSQL. I also have experience with Node.js, Python, React, and Next.js for building full-stack applications.<br><br>
 Recently, I’ve been exploring AI integration, including LLM-based applications, AI Agents, MCP, and tool calling. I’m particularly interested in how AI can be integrated into existing software systems rather than treated as a standalone feature.<br><br>
 I enjoy working on projects involving authentication, role-based access control, database design, concurrency, rate limiting, API development, and system integration.
 
